@@ -1,0 +1,76 @@
+--------------------------------------------------
+Value of i: 0
+--------------------------------------------------
+At start of iteration: 0
+Number of active nodes: 10/876, 1.14% nodes
+At end of iteration: 0
+Number of active nodes: 29/876, 3.31% nodes
+--------------------------------------------------
+Value of i: 1
+--------------------------------------------------
+At start of iteration: 1
+Number of active nodes: 29/876, 3.31% nodes
+At end of iteration: 1
+Number of active nodes: 53/876, 6.05% nodes
+--------------------------------------------------
+Value of i: 2
+--------------------------------------------------
+At start of iteration: 2
+Number of active nodes: 53/876, 6.05% nodes
+At end of iteration: 2
+Number of active nodes: 84/876, 9.59% nodes
+--------------------------------------------------
+Value of i: 3
+--------------------------------------------------
+At start of iteration: 3
+Number of active nodes: 84/876, 9.59% nodes
+At end of iteration: 3
+Number of active nodes: 111/876, 12.67% nodes
+--------------------------------------------------
+Value of i: 4
+--------------------------------------------------
+At start of iteration: 4
+Number of active nodes: 111/876, 12.67% nodes
+At end of iteration: 4
+Number of active nodes: 140/876, 15.98% nodes
+--------------------------------------------------
+Value of i: 5
+--------------------------------------------------
+At start of iteration: 5
+Number of active nodes: 140/876, 15.98% nodes
+At end of iteration: 5
+Number of active nodes: 167/876, 19.06% nodes
+--------------------------------------------------
+Value of i: 6
+--------------------------------------------------
+At start of iteration: 6
+Number of active nodes: 167/876, 19.06% nodes
+At end of iteration: 6
+Number of active nodes: 187/876, 21.35% nodes
+--------------------------------------------------
+Value of i: 7
+--------------------------------------------------
+At start of iteration: 7
+Number of active nodes: 187/876, 21.35% nodes
+At end of iteration: 7
+Number of active nodes: 206/876, 23.52% nodes
+--------------------------------------------------
+Value of i: 8
+--------------------------------------------------
+At start of iteration: 8
+Number of active nodes: 206/876, 23.52% nodes
+At end of iteration: 8
+Number of active nodes: 218/876, 24.89% nodes
+--------------------------------------------------
+Value of i: 9
+--------------------------------------------------
+At start of iteration: 9
+Number of active nodes: 218/876, 24.89% nodes
+At end of iteration: 9
+Number of active nodes: 224/876, 25.57% nodes
+--------------------------------------------------
+Value of i: 10
+--------------------------------------------------
+At start of iteration: 10
+Number of active nodes: 224/876, 25.57% nodes
+Converged at iteration: 10
